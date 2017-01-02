@@ -20,20 +20,6 @@
                ReferencedContainer = "container:Ji.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "NO"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E43D75051B8FE82100702114"
-               BuildableName = "Ji iOS Tests.xctest"
-               BlueprintName = "Ji iOS Tests"
-               ReferencedContainer = "container:Ji.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
@@ -43,16 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       codeCoverageEnabled = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E43D75051B8FE82100702114"
-               BuildableName = "Ji iOS Tests.xctest"
-               BlueprintName = "Ji iOS Tests"
-               ReferencedContainer = "container:Ji.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
